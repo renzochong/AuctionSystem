@@ -8,3 +8,9 @@ I was thinking on starting small to first target motorcycles, since I can speak 
 As mentioned before there are other websites with similar capabilities but there is nothing out there for people trying to sell their used machines, and keep them save from scammers or third-party trying to send invalid offers that end on stealing the sellers information. Of course there are other websites where people can go and get an offer from a corporation to by their machines, and even offer pick up from their door, but these usually end on low values for the customers machines as these companies want to profit out of the item. 
 
 I think a web app like this will be solving the problem for people that are trying to sell their machines on and get the best offers without having to deal with scammers and low offers. 
+
+Main Page would look like this:
+![Alt text](Images/Auction_Main.png)
+
+Item select would look like this:
+![Alt text](Images/Auction_BuyPage.png)
